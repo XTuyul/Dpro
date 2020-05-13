@@ -17,7 +17,7 @@
 • `ls`
 
   **EXECUTE BOT**
-  After Signup [https://autofaucet.dutchycorp.space/?r=Signin](here)
+  After Signup [HERE](https://autofaucet.dutchycorp.space/?r=Signin) 
   
   Find Your Cookies via HttpCannary apk
 
