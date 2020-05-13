@@ -2,24 +2,25 @@
 
   **COMMAND LINE ON Termux 👇** 
 
-• `pkg update --pkg upgrade`
+  `pkg update --pkg upgrade`
 
-• `pkg install nano --pkg install php`
+  `pkg install nano --pkg install php`
 
-• `pkg install git`
+  `pkg install git`
 
-• `termux-setup-storage`
+  `termux-setup-storage`
 
-• `git clone https://github.com/XTuyul/Dpro`
+  `git clone https://github.com/XTuyul/Dpro`
 
-• `cd Dpro` 
+  `cd Dpro` 
 
-• `ls`
+  `ls`
 
   **EXECUTE BOT**
+
   After Signup [HERE](https://autofaucet.dutchycorp.space/?r=Signin) 
   
-  Find Your Cookies via HttpCannary apk
+  Find Your Cookies using HttpCannary.apk
 
-• `php bot.php`
+  `php bot.php`
 
